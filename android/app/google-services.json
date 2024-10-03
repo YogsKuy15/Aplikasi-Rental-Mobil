@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298242353025",
+    "project_id": "aplikasi-rental-mobil-8ae89",
+    "storage_bucket": "aplikasi-rental-mobil-8ae89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298242353025:android:a5f7355f13cabbc643aa80",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_rental_mobil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFkoD-Ixa8H0p5Zm2dgVz99glC7KfrCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
